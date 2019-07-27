@@ -1,4 +1,4 @@
-rom random import randint
+from random import randint
 
 class Player:
 
